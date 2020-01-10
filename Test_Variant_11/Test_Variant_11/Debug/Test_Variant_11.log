@@ -1,0 +1,4 @@
+﻿  Test_Variant_11.cpp
+E:\Univer\Test_Variant_11\Test_Variant_11\Test_Variant_11.cpp(85,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\Univer\Test_Variant_11\Test_Variant_11\Test_Variant_11.cpp(77,15): warning C4101: j: неиспользованная локальная переменная
+  Test_Variant_11.vcxproj -> E:\Univer\Test_Variant_11\Debug\Test_Variant_11.exe
